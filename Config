@@ -39,4 +39,28 @@ vless://de04add9-5c68-8bab-950c-08cd5320df18@104.30.2.178:443?encryption=none&se
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzIE9rdGV0byIsDQogICJhZGQiOiAiMTA0LjMwLjIuMTgyIiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICJkZTA0YWRkOS01YzY4LThiYWItOTUwYy0wOGNkNTMyMGRmMTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm9rdGV0by5pcmFuLnluLnRvIiwNCiAgInBhdGgiOiAiL3ZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm9rdGV0by5pcmFuLnluLnRvIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
 
+#MURIX discord
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=ws&path=/Dny7S1rd1aptDwyLwEUUa&host=irc.murix.de#tls_WS_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=ws&path=/Yvn8Er7lay4wDwyLwEUUa&host=irc.murix.de#tls_WS_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Dny7S1rd1aptGv9tByU#tls_grpc_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Yvn8Er7lay4wGv9tByU#tls_grpc_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=ws&path=/Dny7S1rd1aptDwyLwEUUa&host=irc.murix.de#tls_h2_WS_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=ws&path=/Yvn8Er7lay4wDwyLwEUUa&host=irc.murix.de#tls_h2_WS_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Dny7S1rd1aptGv9tByU#tls_h2_grpc_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@discord.com:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Yvn8Er7lay4wGv9tByU#tls_h2_grpc_CDN_trojan_irc.murix.de
+
+#MURIX irancell
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=ws&path=/Dny7S1rd1aptDwyLwEUUa&host=irc.murix.de#tls_WS_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=ws&path=/Yvn8Er7lay4wDwyLwEUUa&host=irc.murix.de#tls_WS_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Dny7S1rd1aptGv9tByU#tls_grpc_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Yvn8Er7lay4wGv9tByU#tls_grpc_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=ws&path=/Dny7S1rd1aptDwyLwEUUa&host=irc.murix.de#tls_h2_WS_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=ws&path=/Yvn8Er7lay4wDwyLwEUUa&host=irc.murix.de#tls_h2_WS_CDN_trojan_irc.murix.de
+vless://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Dny7S1rd1aptGv9tByU#tls_h2_grpc_CDN_vless_irc.murix.de
+trojan://bb8595d3-25f9-4378-8500-64910472cd7e@104.30.2.59:443?sni=irc.murix.de&security=tls&type=grpc&serviceName=Yvn8Er7lay4wGv9tByU#tls_h2_grpc_CDN_trojan_irc.murix.de
+
+
+
+
+
 
